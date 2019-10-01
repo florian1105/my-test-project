@@ -11,3 +11,4 @@ deploy :
       skip-cleanup : true
       github-token : $GItToken 
       keep-history : true
+      on : master
